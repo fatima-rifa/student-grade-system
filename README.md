@@ -30,6 +30,7 @@ To download this project, run:
 
 ```bash
 git clone https://github.com/fatima-rifa/student-grade-system.git
+```
 
 ---
 
